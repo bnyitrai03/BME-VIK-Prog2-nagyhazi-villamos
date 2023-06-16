@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Parallelogram" Collapsed="true">
+    <Position X="4.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAgAAAAAAAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Parallelogram.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Quadrilateral" Collapsed="true">
+    <Position X="4.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAAAAAAAAAAAGAAAAgEAgBABAQAAAAAAAAAAA=</HashCode>
+      <FileName>Quadrilateral.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rhombus" Collapsed="true">
+    <Position X="5.25" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAQAAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rhombus.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="SetofPoints" Collapsed="true">
+    <Position X="4.25" Y="0.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Methods" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAWgwABAAAAAAAAAAAAAKkAQAApAEAAAA=</HashCode>
+      <FileName>SetofPoints.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Square" Collapsed="true">
+    <Position X="4.25" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAgAAAAAAA=</HashCode>
+      <FileName>Square.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Trapezoid" Collapsed="true">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Trapezoid.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Point" Collapsed="true">
+    <Position X="6.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAMGAAgAYAAAAAAQAAAEAAAAAAYAJgQAAAAAA=</HashCode>
+      <FileName>Point.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Rectangle" Collapsed="true">
+    <Position X="3" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAhAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Rectangle.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
